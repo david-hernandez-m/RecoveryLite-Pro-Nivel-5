@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Ejecutables e instaladores
+*.exe
+*.msi
+
+# Carpetas generadas
+RecoveryLite_Portable/
+RecoveryLite_Portable_Full/
+CASOS_RECOVERY/
+validacion_*/
+filesystem_recovery_*/
+deep_recovery_*/
+raw_recovery_*/
+
+# Archivos recuperados o imágenes de disco
+*.img
+*.dd
+*.raw
+*.bin
+
+# Reportes temporales
+release_info.txt
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
